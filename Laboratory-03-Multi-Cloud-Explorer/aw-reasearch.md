@@ -34,4 +34,5 @@ Many businesses use AWS to host websites and applications. It can also be used f
 ## My Understanding
 
 For me, AWS is useful because companies do not always need to build and maintain their own physical servers. They can use the cloud resources they need and adjust them as their requirements change. The different services also allow AWS to be used for many types of business applications.
+![Uploading image.png…]()
 
