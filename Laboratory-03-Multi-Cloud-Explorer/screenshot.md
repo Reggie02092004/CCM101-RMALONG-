@@ -12,6 +12,7 @@
 
 
 ## KILLERCODE TERMINAL
+<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/cf139a1d-fd36-4761-b3ed-f494f01720ce" />
 
 ## GITHUB RESPOSITORY
 
