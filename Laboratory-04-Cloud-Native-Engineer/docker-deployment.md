@@ -42,7 +42,8 @@ After stopping the container, I used this command to remove the `nginx-server` c
 
 ### Screenshot of the Output
 
-<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/112cf572-afd2-42e3-81e5-e787b9cb99d0" />
+<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/d2aed2ba-4d85-4032-b901-d24904a1a25c" />
+
 
 ## Lifecycle Conclusion
 
