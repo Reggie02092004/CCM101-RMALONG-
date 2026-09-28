@@ -8,6 +8,7 @@
 
 
 ## GOOGLE CLOUD PLATFPRM HOME PAGE
+<img width="1440" height="852" alt="image" src="https://github.com/user-attachments/assets/2062d11a-4d38-47b6-b20c-44bd0f0f86e6" />
 
 
 ## KILLERCODE TERMINAL
