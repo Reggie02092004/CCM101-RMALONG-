@@ -1,5 +1,3 @@
-# Docker and Containerization Mission
-
 ## Mission Overview
 
 In this mission, I learned about **Docker and containerization**, which are commonly used when developing and deploying cloud-based applications. The activity helped me understand how containers are different from Virtual Machines. I also practiced using Docker to download, run, access, stop, and remove an Nginx web server.
